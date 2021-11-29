@@ -1,21 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>rsync 使用笔记</title>
-    <url>/linux/rsync-usage/</url>
-    <content><![CDATA[<h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><figure class="highlight shell"><table><tbody><tr><td class="code"><pre><span class="line">apt install rsync</span><br></pre></td></tr></tbody></table></figure>
-]]></content>
-      <categories>
-        <category>linux</category>
-      </categories>
-      <tags>
-        <tag>linux</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>screen 使用笔记</title>
     <url>/linux/screen-usage/</url>
-    <content><![CDATA[<h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><figure class="highlight shell"><table><tbody><tr><td class="code"><pre><span class="line">sudo apt install screen</span><br></pre></td></tr></tbody></table></figure>
+    <content><![CDATA[<h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><figure class="highlight shell"><table><tbody><tr><td class="code"><pre><span class="line"><span class="meta">$</span><span class="bash"> sudo apt install screen</span></span><br></pre></td></tr></tbody></table></figure>
 
 <h2 id="使用"><a href="#使用" class="headerlink" title="使用"></a>使用</h2><h3 id="查看-screen-绑定的命令"><a href="#查看-screen-绑定的命令" class="headerlink" title="查看 screen 绑定的命令"></a>查看 screen 绑定的命令</h3><blockquote>
 <p>快捷键需要在 screen 中执行</p>
