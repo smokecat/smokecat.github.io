@@ -2,9 +2,15 @@
 <search>
   <entry>
     <title>rsync 使用笔记</title>
-    <url>/uncategorized/rsync-usage/</url>
+    <url>/linux/rsync-usage/</url>
     <content><![CDATA[<h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><figure class="highlight shell"><table><tbody><tr><td class="code"><pre><span class="line">apt install rsync</span><br></pre></td></tr></tbody></table></figure>
 ]]></content>
+      <categories>
+        <category>linux</category>
+      </categories>
+      <tags>
+        <tag>linux</tag>
+      </tags>
   </entry>
   <entry>
     <title>screen 使用笔记</title>
